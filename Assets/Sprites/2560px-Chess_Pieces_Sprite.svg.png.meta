@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: 690e2053d4667ed4eb3918bf12e1b15d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2560px-Chess_Pieces_Sprite.svg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426.5
+        width: 426.66666
+        height: 426.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85602ab9aa8493d41a13bd4268f5f55e
+      internalID: 130751625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2560px-Chess_Pieces_Sprite.svg_1
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 426.5
+        width: 426.66666
+        height: 426.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952d54c12d512d94585e848e3a24da18
+      internalID: -796113227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2560px-Chess_Pieces_Sprite.svg_2
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 426.5
+        width: 426.66666
+        height: 426.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd50358dab34e1d4598b8d20c6488b05
+      internalID: -887033300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2560px-Chess_Pieces_Sprite.svg_3
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 426.5
+        width: 426.66666
+        height: 426.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580ee813552b7de4aa4114047f2cc08f
+      internalID: -1892163039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2560px-Chess_Pieces_Sprite.svg_4
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 426.5
+        width: 426.66666
+        height: 426.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e667329c70d48499ee6af754477946
+      internalID: -1556524005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2560px-Chess_Pieces_Sprite.svg_5
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 426.5
+        width: 426.66666
+        height: 426.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566e9b244298e834585eb2d7adbbc184
+      internalID: 884409390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2560px-Chess_Pieces_Sprite.svg_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.5
+        width: 426.66666
+        height: 426.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a95df74f987f64eba15af5f133ce95
+      internalID: -562403582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2560px-Chess_Pieces_Sprite.svg_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0.5
+        width: 426.66666
+        height: 426.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b255277ce9304b040b90b06ac3bfb2ea
+      internalID: -1594385835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2560px-Chess_Pieces_Sprite.svg_8
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0.5
+        width: 426.66666
+        height: 426.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909879b52b2f65341b2c0ff3af89d5fb
+      internalID: -466572456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2560px-Chess_Pieces_Sprite.svg_9
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0.5
+        width: 426.66666
+        height: 426.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322e738ca6491c94787e32cdb210feaf
+      internalID: -1799462947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2560px-Chess_Pieces_Sprite.svg_10
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0.5
+        width: 426.66666
+        height: 426.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaccd3d0ffc4714d9dd212183513071
+      internalID: 9669164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2560px-Chess_Pieces_Sprite.svg_11
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 0.5
+        width: 426.66666
+        height: 426.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754666b1dd3ec89428d6ed8c4835f97c
+      internalID: -193053304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2560px-Chess_Pieces_Sprite.svg_0: 130751625
+      2560px-Chess_Pieces_Sprite.svg_8: -466572456
+      2560px-Chess_Pieces_Sprite.svg_9: -1799462947
+      2560px-Chess_Pieces_Sprite.svg_2: -887033300
+      2560px-Chess_Pieces_Sprite.svg_4: -1556524005
+      2560px-Chess_Pieces_Sprite.svg_10: 9669164
+      2560px-Chess_Pieces_Sprite.svg_5: 884409390
+      2560px-Chess_Pieces_Sprite.svg_6: -562403582
+      2560px-Chess_Pieces_Sprite.svg_11: -193053304
+      2560px-Chess_Pieces_Sprite.svg_1: -796113227
+      2560px-Chess_Pieces_Sprite.svg_3: -1892163039
+      2560px-Chess_Pieces_Sprite.svg_7: -1594385835
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
