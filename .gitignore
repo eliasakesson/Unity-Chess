@@ -6,6 +6,7 @@ Obj/
 UnityGenerated/
 Library/
 Assets/AssetStoreTools*
+Assets/stockfish/
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
